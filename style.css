@@ -1,0 +1,19 @@
+@media screen and (max-width : 1024px) {
+    display: none;
+}
+@media screen and (max-width : 800px) {
+}
+    display: none;
+@media screen and (max-width : 360px) {
+}
+     display: none;
+
+canvas
+{
+    background-color:#30c0df;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+    
+}
